@@ -1,6 +1,7 @@
 ---
 name: ux-laws
 description: Apply Laws of UX when designing or implementing visible interface behavior, or auditing usability, in web, mobile, desktop, and specialized software. Translate relevant principles into scoped changes and verifiable acceptance criteria. Use for interaction, navigation, forms, feedback, information hierarchy, and recovery; backend-only work does not require this skill.
+license: MIT
 ---
 
 # UX Laws
@@ -79,6 +80,8 @@ Keep the final explanation proportional to the change:
 For a one-control fix, a few sentences can cover this. For an audit, use severity and evidence per finding. Produce project files for UX documentation only when requested or already required by the project. Optional assets: [brief](assets/templates/ux-brief.md), [decision record](assets/templates/decision-record.md), [audit](assets/templates/audit-report.md), [verification plan](assets/templates/verification-plan.md).
 
 ## Maintain this package
+
+For installation, usage examples, package structure, and publication guidance, read the [README](README.md). It is a human-facing guide and need not be loaded for ordinary UI work.
 
 Keep each substantive rule in one authoritative reference and link to it from related material. Preserve source provenance and review dates when updating guidance. Add references only when they change implementation decisions.
 
